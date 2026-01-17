@@ -1,4 +1,4 @@
-<h1 align="center"><code>OTP-SPAMMER</code></h1> <p align="center"> <img src="https://github.com/Nasution4/Otp-Spamer/blob/main/Screenshot_20251122-101211.jpg" width="800"><br><br>
+<h1 align="center"><code>OTP-SPAMMER</code></h1> <p align="center"> <img src="" width="800"><br><br>
 
 _Sebuah alat yang berfungsi untuk mengirimkan banyak kode OTP secara beruntun dengan tujuan menyepam ataupun membanjiri kolom pesan target_
 
@@ -33,20 +33,20 @@ python otp.py # Menjalankan Program Utama Untuk Menggunakan Alat Otp Spammer
 ```
 
 <h1 align="center"><code>Author</code></h1>
-<p align="center"> <img src="https://files.catbox.moe/qm38iw.png" width="400"><br><br>
-    <a href="https://chat.whatsapp.com/Fp9rY1AfH9xByud1zyTpEu?mode=ems_copy_c">
+<p align="center"> <img src="" width="400"><br><br>
+    <a href="https://wa.me/6285167879598">
       <img src="https://img.shields.io/badge/-WHATSAPP-black?logo=whatsapp&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://tiktok.com/madina_cyber">
+    <a href="https://tiktok.com/she0rif">
       <img src="https://img.shields.io/badge/-TIKTOK-black?logo=tiktok&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://www.instagram.com/riski_nasution0?igsh=b3FjdzFtbG5sb21k">
+    <a href="https://www.instagram.com/she0rif">
       <img src="https://img.shields.io/badge/-INSTAGRAM-black?logo=instagram&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://github.com/Nasution4/">
+    <a href="https://github.com/sherif1day-ux">
       <img src="https://img.shields.io/badge/-GITHUB-black?logo=github&style=for-the-badge">
     </a>
 
